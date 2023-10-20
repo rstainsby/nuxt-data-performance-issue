@@ -1,6 +1,8 @@
 # NuxtData Performance Issue
 This project is built to support a GitHub issue claiming that NuxtData causes performance issues when requesting large data sizes.
 
+> Issue: https://github.com/nuxt/nuxt/issues/23594
+
 To recreate this issue:
 
 1. Reload the site (if already loaded)
